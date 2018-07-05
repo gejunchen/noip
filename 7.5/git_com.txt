@@ -1,0 +1,9 @@
+git clone https://github.com/gejunchen/noip.git
+
+git commit -m "add new files"
+git config --global user.email "you@example.com"
+git config --global user.email "2561571372@qq.com"
+git push origin master 
+ 
+git pull
+
