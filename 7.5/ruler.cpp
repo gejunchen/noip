@@ -26,7 +26,7 @@ int main()
             printf("%d %d\n", i, sum);
             ans = min(ans, j - i + 1);
             sum-=a[i];          
-            i++
+            i++;
         }while(sum >= m);
     }
     printf("%d", ans);
