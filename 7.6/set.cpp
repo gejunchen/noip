@@ -54,4 +54,4 @@ int main(){
         printf("%d ", ans[i]);
     }
     return 0;
-}
+} 
